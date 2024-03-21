@@ -5,7 +5,6 @@ This repository contains AI model training and evaluation code, as well as label
 
 ## Installation and system requirements
 ###### Model training
-- Tested on CentOS Linux 7 (Core)
 - Python version: 3.10.12
 - Torchvision=0.17.1
 - PIL=9.4.0
