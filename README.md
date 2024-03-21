@@ -20,7 +20,7 @@ This repository contains AI model training and evaluation code, as well as label
 
 ## Demo
 - Notebook demonstrating model training and evaluation is provided in `DemoModelTrainEval.ipynb`.
-- Scripts which can be used with the Clarius Cast API are provided in the scanning folder. 
+- Scripts which can be used with the Clarius Cast API are provided, `pysidecaster.py` (slight modifications from the version provided by the Cast API to allow for drawing of AI model prediction overlay) and `ai_testing.py` (for generating model predictions from finetuned architectures).  
 - Helper functions referenced in provided demonstration notebooks can be downloaded from [Torchvision](https://github.com/pytorch/vision/tree/main/gallery/). 
 - To validate code functionality, run sample code corresponding to desired functionality.
 
