@@ -19,7 +19,7 @@ This repository contains AI model training and evaluation code, as well as label
 - PIL=9.4.0
 
 ## Demo
-- Notebooks demonstrating model training and evaluation are provided in the notebooks folder.
+- Notebook demonstrating model training and evaluation is provided in `DemoModelTrainEval.ipynb`.
 - Scripts which can be used with the Clarius Cast API are provided in the scanning folder. 
 - Helper functions referenced in provided demonstration notebooks can be downloaded from [Torchvision](https://github.com/pytorch/vision/tree/main/gallery/). 
 - To validate code functionality, run sample code corresponding to desired functionality.
