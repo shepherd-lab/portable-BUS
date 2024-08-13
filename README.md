@@ -35,8 +35,6 @@ In this Google Drive, you will find the following resources:
 - **Labeled Video Data**: json files containing lesion location annotations.
 - **Frames**: individual frames extracted from the video clips.
 
-## Citation 
-TODO
 
 ## Contact
 
