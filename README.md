@@ -37,3 +37,9 @@ In this Google Drive, you will find the following resources:
 
 ## Citation 
 TODO
+
+## Contact
+
+- Nusrat Zaman Zemi: [nusratz@hawaii.edu](mailto:nusratz@hawaii.edu)
+- Arianna Bunnel: [abunnell@hawaii.edu](mailto:abunnell@hawaii.edu)
+- John Shepherd: [johnshep@hawaii.edu](mailto:johnshep@hawaii.edu)
