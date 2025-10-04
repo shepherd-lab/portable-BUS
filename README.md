@@ -1,5 +1,5 @@
-# Investigating Potential of AI-Enhanced Ultrasound Device for Early Breast Cancer Screening Program in Rural Settings
-###### Github repository containing all relevant code for 17th International Workshop on Breast Imaging 2024 submission
+# Edge AI for Portable Breast Ultrasound (BUS)
+<!-- ###### Github repository containing all relevant code for 17th International Workshop on Breast Imaging 2024 submission -->
 
 This repository contains AI model training and evaluation code, as well as labeled ultrasound phantom data used for experiments in _Assessing the Feasibility of AI-Enhanced Portable Ultrasound for Improved Breast Cancer Early Detection in Remote Areas_. Model timing code was developed on top of the open-source [Clarius Cast API](https://github.com/clariusdev/cast), and all logic for streaming images from Clarius devices can be found in that repository. We provide minimal examples which can be integrated into the Cast API, but do not reproduce their work here.  
 
