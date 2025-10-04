@@ -50,8 +50,7 @@ These models were used to evaluate probe sustainability under realistic operatin
 - **Visualization** of battery percentage and probe temperature over time.  
 
 **Run example simulation:**
-```bash
-python predictive_model_tool.py
+predictive_model_tool.py
 
 
 ## Contact
