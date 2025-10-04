@@ -35,6 +35,24 @@ In this Google Drive, you will find the following resources:
 - **Labeled Video Data**: json files containing lesion location annotations.
 - **Frames**: individual frames extracted from the video clips.
 
+---
+
+## Predictive Modeling (Battery & Temperature)
+
+In addition to AI model development, this repository also provides a **predictive modeling tool** (`predictive_model_tool.py`) for simulating probe **battery discharge/charging** and **temperature rise/cooling** during clinical workflows.  
+
+These models were used to evaluate probe sustainability under realistic operating conditions, ensuring safe temperatures (<45 °C) while maintaining throughput for daily screening.
+
+**Features:**
+- Exponential **battery discharge/charge models** with saturation behavior.  
+- Exponential **temperature heating/cooling models**, with hard thresholding for overheating.  
+- **Workday simulation** with alternating discharge/charge cycles and a 1-hour lunch break.  
+- **Visualization** of battery percentage and probe temperature over time.  
+
+**Run example simulation:**
+```bash
+python predictive_model_tool.py
+
 
 ## Contact
 
